@@ -1,0 +1,48 @@
+* {
+    font-family: "Times New Roman", Times, Serif;
+}
+
+caption {
+    border: dotted 3px #000;
+    background-color: linen;
+}
+
+table {
+    border: solid 2px #000;
+    position: absolute;
+    margin: auto;
+    height: 100px;
+    width: 800px;
+    background-color: burlywood
+}
+
+
+.table-one {
+    border: solid 2px #000;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
+.table-two {
+    border: solid 2px #000;
+    position: absolute;
+    margin: 250px auto;
+    top: auto;
+}
+tbody {
+  border: solid 2px #000;  
+  background-color: lightyellow;
+}
+td {
+    border: ridge .5px #000;
+}
+
+body {
+    background-color: beige;
+}
+
+span {
+    font-family: monospace, Arial, Helvetica, sans-serif !important;
+    background-color: lightblue !important;
+}
